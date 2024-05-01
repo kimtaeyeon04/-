@@ -25,7 +25,6 @@ const Button = styled.button`
   transition: all 0.3s ease;
   text-decoration: none;
 
-  /* 모든 버튼에 대한 hover 효과 */
   &:hover {
     font-size: 18px;
     font-weight: bold;
@@ -44,6 +43,7 @@ const LeftButton = styled(Button)`
     `}
 `;
 
+// 버튼이 왼쪽으로 약간의 여백
 const RightButton = styled(Button)`
   margin-left: 5px;
 `;

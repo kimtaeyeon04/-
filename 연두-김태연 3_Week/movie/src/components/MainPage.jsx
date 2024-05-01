@@ -56,7 +56,7 @@ function MainPage() {
         <WelcomeMessage>환영합니다</WelcomeMessage>
       </MainPageContainer>
       <LowerSection>
-        <Text>Find your movies !</Text>
+        <Text>Find your movies!</Text>
         <SearchInput type="text"/>
       </LowerSection>
     </div>
